@@ -1,6 +1,6 @@
 # sample
 
-A new Flutter project.
+This is a small flutter project where a new loading screen animation is made.
 
 ## Getting Started
 
