@@ -1,6 +1,6 @@
 # world_time
 
-A new Flutter project.
+In this app you can select different different locations and get the time at that particular location.
 
 ## Getting Started
 
